@@ -8,3 +8,7 @@ have changes of others
 un-versioned: not being kept track of
 commit: saved my changes to my local repository
 push: sending the changes in the local repository to the remote repository
+
+
+page 2
+text
